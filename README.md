@@ -3,8 +3,8 @@
 A machine learning application that classifies email messages as phishing or legitimate using Natural Language Processing (NLP) techniques.
 
 ## Live Demo
-[Streamlit App](your-link-here)
 
+](https://phishing-email-kh6fy7swwbleuh7ziwgmsi.streamlit.app/)
 ## Problem Statement
 Phishing emails are one of the most common cybersecurity threats. This project aims to automatically detect suspicious email content using machine learning.
 
