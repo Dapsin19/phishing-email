@@ -1,4 +1,4 @@
-# Phishing Email Detection App
+# Phishing Email Detection App - Live Streamlit Demo Available
 
 This is an ML-based phishing detection system using TF-IDF + Machine Learning.
 
